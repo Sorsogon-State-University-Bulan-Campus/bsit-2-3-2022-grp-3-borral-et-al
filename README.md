@@ -19,15 +19,23 @@ Answer; The three main financial statements are balance sheets, income statement
 ✍Authors✍
 
 Conny Donor (@connydonor23)
+
 Rudy Belle Borral (@r7belle)
+
 Menchie Gealone (@gealoneMench01)
+
 📌References📌
 
 Source 1
+
 Source 2
+
 Source 3
+
 💖Special Thanks💖
 
 Investopedia
+
 FPA
+
 readme.so

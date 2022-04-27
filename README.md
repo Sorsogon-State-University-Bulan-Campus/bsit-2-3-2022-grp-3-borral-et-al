@@ -2,6 +2,10 @@
 
 ⁀➷A brief discussion about finance is a broad term that describes activities associated with banking, leverage or debt, credit, capital markets, money, and investments. Basically, finance represents money management and the process of acquiring needed funds.
 
+URL 📌
+
+https://sorsogon-state-university-bulan-campus.github.io/bsit-2-3-2022-grp-3-borral-et-al/
+
 📝 FAQ 📝
 
 If I could use only one statement to review the overall health of a company, which statement would I use, and why?

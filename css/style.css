@@ -121,7 +121,7 @@ img {
 }
 #adbox div.images {
 	float: right;
-	display: inline-block;
+	display: block;
 	height: 281px;
 	width: 710px;
 	overflow: hidden;
